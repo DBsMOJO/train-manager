@@ -1,7 +1,7 @@
 ﻿/*--------------------------------------------------------------
  *				HTBLA-Leonding / Class: 5.ACIF
  *--------------------------------------------------------------
- *              Daniel Binder, 13.11.2024
+ *              DBsMOJO, 13.11.2024
  *--------------------------------------------------------------
  * Notes:
  *
@@ -12,7 +12,7 @@ public class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, DBsMOJO!");
       
     }
 }
