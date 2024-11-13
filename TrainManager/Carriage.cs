@@ -21,7 +21,7 @@ public abstract class Carriage
     protected const double COST_PER_PASSENGER_CAR = 300.0; //Kosten je Wagon
     protected const double COST_PER_CARGO_CAR = 250.0; //Kosten je Frachtwagon
     
-    private const int LENGH_OF_THE_CARRIAGE_NUMBER = 8;
+    private const int LENGH_OF_THE_CARRIAGE_NUMBER = 8; // You can change the length here, feel free to do so
 
     private int _carriageNumber;
 
